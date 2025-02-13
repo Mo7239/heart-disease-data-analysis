@@ -20,6 +20,6 @@ Feel free to contribute by adding new insights, improving visualizations, or sug
 
 
 ## 📬 Contact  
-For any inquiries, feel free to reach out via [LinkedIn]([your-profile-link](https://www.linkedin.com/in/mohamed-wasef-789743233/))   
+For any inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mohamed-wasef-789743233/)   
 
 ---
