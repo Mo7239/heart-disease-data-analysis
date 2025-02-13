@@ -18,8 +18,6 @@ This project focuses on analyzing heart disease data using **Tableau** to uncove
 ## 🤝 Contributing  
 Feel free to contribute by adding new insights, improving visualizations, or suggesting new analyses. Open a pull request or contact me!  
 
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use and modify it.  
 
 ## 📬 Contact  
 For any inquiries, feel free to reach out via [LinkedIn]([your-profile-link](https://www.linkedin.com/in/mohamed-wasef-789743233/))   
