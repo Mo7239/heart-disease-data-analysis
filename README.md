@@ -24,10 +24,15 @@ The workbook (`heart disease analysis.twbx`) contains **15 worksheets** across *
 | **DB1 — Overview** | Max heart rate distribution (patient vs. normal), age distribution histogram, gender breakdown (donut charts), gender × chest pain type comparison |
 | **DB2 — Clinical Indicators** | KPI cards (% patients, average age, max heart rate), resting blood pressure distribution, chest pain type breakdown, exercise-induced angina and ST slope (pie charts), male vs. female diagnosis comparison |
 
+<img width="1920" height="962" alt="home heart" src="https://github.com/user-attachments/assets/cf1da1ca-4eef-465b-bb5c-ac18c75c1abd" />
+<img width="1920" height="947" alt="seconde" src="https://github.com/user-attachments/assets/2ce44f51-8e6c-4e75-8099-edff60b88388" />
+
+
+
 **Notable techniques:**
 - **Calculated fields** — a dynamic patient-percentage KPI: `(COUNT(IF [HeartDisease]=1 THEN 1 END) / COUNT([HeartDisease])) * 100`
 - **Custom binning** — bins on `Age`, `MaxHR`, and `RestingBP` to build meaningful distribution histograms
-- **Comparative visual encoding** — density/area charts and icon-based dumbbell charts to contrast patient vs. non-patient populations
+- **Comparative visual encoding** — density/area charts and icon-based dumbbell charts to contrast patient vs. non-patient populations 
 
 ## Key Insights
 
